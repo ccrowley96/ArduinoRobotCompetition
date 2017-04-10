@@ -6,7 +6,7 @@
 // Group Members: Cory Crowley, Akin Shonibare, Yijie Cui 
 // Cory Crowley (10180322)  
 // Akin Shonibare (10185253)  
-// Joey Votto (10170009)    
+// Yijie Cui (10170009)    
 ////////////////////////////
 #include <EEPROM.h>
 #include <Servo.h>
